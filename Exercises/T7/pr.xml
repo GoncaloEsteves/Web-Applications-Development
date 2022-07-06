@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pr>
+    <meta>
+        <key>TPC7</key>
+        <title>Desenvolvimento de uma Aplicação recorrendo a uma base de dados em MongoDB</title>
+        <subtitle>Trabalho de Casa nº7 de DAW</subtitle>
+        <bdate>25-11-2020</bdate>
+        <edate>02-12-2020</edate>
+        <supervisor url="http://www4.di.uminho.pt/~jcr">José Carlos Ramalho</supervisor>
+    </meta>
+    <team>
+        <member id="a85731">
+            <name>Gonçalo José Azevedo Esteves</name>
+            <email>a85731@alunos.uminho.pt</email>
+            <link url="https://github.com/Komatsu52/DAW2020"></link>
+        </member>
+    </team>
+    <abstract>
+    	<p>
+    		O objetivo deste trabalho de casa passou pela criação de uma aplicação <i>web</i> capaz de gerir informação relativa aos alunos de <b>DAW</b>. Tendo isto em vista, recorreu-se à ferramenta <b>Express</b> por forma a auxiliar na criação de uma <u>API</u> capaz de suportar as funcionalidades necessárias; e à criação de uma base de dados <b>Mongo</b>, onde foram guardados todos os dados obtidos.
+    	</p>
+    	<p>
+    		A aplicação desenvolvida permite a inserção e remoção de alunos, bem como a edição da informação dos mesmos.
+    	</p>
+    </abstract>
+    <deliverables>
+        <link url="https://github.com/Komatsu52/DAW2020/tree/main/TPC/T7/dawApp">Pasta com todos </link>
+    </deliverables>
+</pr>

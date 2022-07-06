@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE record SYSTEM "file:/home/goncalo/%C3%81rea%20de%20Trabalho/4%C2%BAAno/Complementares/DAW2020/TPC/T2/record.dtd">
+<record>
+    <projectname>TPC2</projectname>
+    <header>
+        <keyname>Relatório do TPC2</keyname>
+        <title>DTDs</title>
+        <subtitle>Segundo TPC de DAW</subtitle>
+        <begindate>25-10-2020</begindate>
+        <enddate>28-10-2020</enddate>
+        <supervisor href="http://www4.di.uminho.pt/~jcr/">José Carlos Ramalho</supervisor>
+    </header>
+    <workteam>
+        <person>
+            <number>a85731</number>
+            <name href="https://github.com/Komatsu52">Gonçalo José Azevedo Esteves</name>
+            <email>a85731@alunos.uminho.pt</email>
+        </person>
+    </workteam>
+    <abstract>
+        <paragraph>Serve o presente trabalho para demonstrar o uso dos <bold>DTD</bold> na criação de ficheiros <italic><underline>XML</underline></italic> <underline>bem estruturados</underline>.</paragraph>
+        <paragraph>O exemplo em que nos baseamos para criar o <bold>DTD</bold> está representado na <link href="http://www4.di.uminho.pt/~jcr/PROJS/micei2002/guilherme/Project%20Record.htm">seguinte página</link>.</paragraph>
+    </abstract>
+    <deliverables>
+        <link href="https://github.com/Komatsu52/DAW2020/blob/main/TPC/T2/record.dtd">Ficheiro DTD</link>
+        <link href="https://github.com/Komatsu52/DAW2020/blob/main/TPC/T2/record.xml">Ficheiro XML</link>
+    </deliverables>
+    <date>28-10-2020</date>
+</record>
